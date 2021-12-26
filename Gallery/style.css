@@ -45,6 +45,7 @@ body {
 
 .slide.active {
     flex: 10;
+    box-shadow: 0px 0px 20px 1px #ec38bc
 }
 
 .slide.active h3 {
@@ -59,6 +60,5 @@ body {
     }
     .slide {
         margin: 5px;
-        border: 1px solid rgba(216, 198, 250, 0.973);
     }
 }
