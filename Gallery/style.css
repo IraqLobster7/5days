@@ -59,5 +59,6 @@ body {
     }
     .slide {
         margin: 5px;
+        border: 1px solid rgba(216, 198, 250, 0.973);
     }
 }
